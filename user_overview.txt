@@ -1,0 +1,22 @@
+Number of users: 5
+Number of tasks: 10
+Username: admin, has 2 tasks assigned to them
+	 - has completed 10.0 percent of all tasks
+	 - has completed 50.0 percent of the tasks assigned
+	 - has 100.0 percent of assigned tasks not complete
+	 - has 100.0 percent of assigned tasks over due
+Username: Cameron, has 3 tasks assigned to them
+	 - has completed 20.0 percent of all tasks
+	 - has completed 66.66666666666667 percent of the tasks assigned
+	 - has 33.333333333333336 percent of assigned tasks not complete
+	 - has 0.0 percent of assigned tasks over due
+Username: VanessaWright, has 2 tasks assigned to them
+	 - has completed 0.0 percent of all tasks
+	 - has completed 0.0 percent of the tasks assigned
+	 - has 100.0 percent of assigned tasks not complete
+	 - has 0.0 percent of assigned tasks over due
+Username: keaganjames, has 2 tasks assigned to them
+	 - has completed 0.0 percent of all tasks
+	 - has completed 0.0 percent of the tasks assigned
+	 - has 100.0 percent of assigned tasks not complete
+	 - has 0.0 percent of assigned tasks over due
